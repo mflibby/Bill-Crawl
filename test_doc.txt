@@ -1,0 +1,9 @@
+here is a sentence which is on two
+Lines and includes $1,000,000 USD
+And should allow me to test my code.
+For only $10, we should be
+Able to obtain a decent copy
+Of the version we want
+Which will be something
+That spans many lines
+But can still be handled.
